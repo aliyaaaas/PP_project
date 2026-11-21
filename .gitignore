@@ -35,4 +35,8 @@ build/
 .vscode/
 
 ### Mac OS ###
+.DS_Storeout/
+target/
+.idea/
+*.iml
 .DS_Store
